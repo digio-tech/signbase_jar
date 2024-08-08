@@ -1,0 +1,5 @@
+ <dependency>
+        <groupId>com.digio</groupId>
+        <artifactId>signbase_jar</artifactId>
+        <version>1.0.1</version>
+    </dependency>
